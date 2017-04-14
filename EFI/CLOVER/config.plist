@@ -14,13 +14,13 @@
 			<dict>
 				<key>AddPNLF_1000000</key>
 				<true/>
+				<key>DeleteUnused_400000</key>
+				<true/>
 				<key>FIX_RTC_20000</key>
 				<true/>
 				<key>FixHPET_0010</key>
 				<true/>
 				<key>NewWay_80000000</key>
-				<true/>
-				<key>DeleteUnused_400000</key>
 				<true/>
 			</dict>
 			<key>Name</key>
@@ -33,13 +33,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X09TSQ==
-					</data>
+					<data>X09TSQ==</data>
 					<key>Replace</key>
-					<data>
-					WE9TSQ==
-					</data>
+					<data>WE9TSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -47,13 +43,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					R0ZYMA==
-					</data>
+					<data>R0ZYMA==</data>
 					<key>Replace</key>
-					<data>
-					SUdQVQ==
-					</data>
+					<data>SUdQVQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -61,13 +53,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SERBUw==
-					</data>
+					<data>SERBUw==</data>
 					<key>Replace</key>
-					<data>
-					SERFRg==
-					</data>
+					<data>SERFRg==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -75,13 +63,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					SEVDSQ==
-					</data>
+					<data>SEVDSQ==</data>
 					<key>Replace</key>
-					<data>
-					SU1FSQ==
-					</data>
+					<data>SU1FSQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -89,13 +73,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X1ExMQA=
-					</data>
+					<data>X1ExMQA=</data>
 					<key>Replace</key>
-					<data>
-					WFExMQA=
-					</data>
+					<data>WFExMQA=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -103,13 +83,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X1ExMgA=
-					</data>
+					<data>X1ExMgA=</data>
 					<key>Replace</key>
-					<data>
-					WFExMgA=
-					</data>
+					<data>WFExMgA=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -117,13 +93,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					R1BSVwI=
-					</data>
+					<data>R1BSVwI=</data>
 					<key>Replace</key>
-					<data>
-					WFBSVwI=
-					</data>
+					<data>WFBSVwI=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -131,13 +103,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X0RTTQ==
-					</data>
+					<data>X0RTTQ==</data>
 					<key>Replace</key>
-					<data>
-					WERTTQ==
-					</data>
+					<data>WERTTQ==</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -145,13 +113,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X0JJRgA=
-					</data>
+					<data>X0JJRgA=</data>
 					<key>Replace</key>
-					<data>
-					WEJJRgA=
-					</data>
+					<data>WEJJRgA=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -159,13 +123,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					X0JTVAg=
-					</data>
+					<data>X0JTVAg=</data>
 					<key>Replace</key>
-					<data>
-					WEJTVAg=
-					</data>
+					<data>WEJTVAg=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -173,13 +133,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					U01URgE=
-					</data>
+					<data>U01URgE=</data>
 					<key>Replace</key>
-					<data>
-					WE1URgE=
-					</data>
+					<data>WE1URgE=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -187,13 +143,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					U01URQE=
-					</data>
+					<data>U01URQE=</data>
 					<key>Replace</key>
-					<data>
-					WE1URQE=
-					</data>
+					<data>WE1URQE=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -201,13 +153,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					R1NCSQE=
-					</data>
+					<data>R1NCSQE=</data>
 					<key>Replace</key>
-					<data>
-					WFNCSQE=
-					</data>
+					<data>WFNCSQE=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -215,13 +163,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					TUhQRgE=
-					</data>
+					<data>TUhQRgE=</data>
 					<key>Replace</key>
-					<data>
-					WEhQRgE=
-					</data>
+					<data>WEhQRgE=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -229,13 +173,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					TUhJRgE=
-					</data>
+					<data>TUhJRgE=</data>
 					<key>Replace</key>
-					<data>
-					WEhJRgE=
-					</data>
+					<data>WEhJRgE=</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -243,13 +183,9 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>
-					R0JJRAg=
-					</data>
+					<data>R0JJRAg=</data>
 					<key>Replace</key>
-					<data>
-					WEJJRAg=
-					</data>
+					<data>WEJJRAg=</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
@@ -311,57 +247,43 @@
 						<key>Key</key>
 						<string>AAPL,Gfx324</string>
 						<key>Value</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 					</dict>
 					<dict>
 						<key>Key</key>
 						<string>AAPL00,PanelCycleDelay</string>
 						<key>Value</key>
-						<data>
-						+gAAAA==
-						</data>
+						<data>+gAAAA==</data>
 					</dict>
 					<dict>
 						<key>Key</key>
 						<string>AAPL00,PanelPowerOff</string>
 						<key>Value</key>
-						<data>
-						EQAAAA==
-						</data>
+						<data>EQAAAA==</data>
 					</dict>
 					<dict>
 						<key>Key</key>
 						<string>AAPL,GfxYTile</string>
 						<key>Value</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 					</dict>
 					<dict>
 						<key>Key</key>
 						<string>subsystem-id</string>
 						<key>Value</key>
-						<data>
-						hoAAAA==
-						</data>
+						<data>hoAAAA==</data>
 					</dict>
 					<dict>
 						<key>Key</key>
 						<string>AAPL00,PanelPowerOn</string>
 						<key>Value</key>
-						<data>
-						GQEAAA==
-						</data>
+						<data>GQEAAA==</data>
 					</dict>
 					<dict>
 						<key>Key</key>
 						<string>AAPL,ig-platform-id</string>
 						<key>Value</key>
-						<data>
-						AAAWGQ==
-						</data>
+						<data>AAAWGQ==</data>
 					</dict>
 					<dict>
 						<key>Key</key>
@@ -373,9 +295,7 @@
 						<key>Key</key>
 						<string>AAPL00,PanelPowerDown</string>
 						<key>Value</key>
-						<data>
-						PAAAAA==
-						</data>
+						<data>PAAAAA==</data>
 					</dict>
 					<dict>
 						<key>Key</key>
@@ -387,25 +307,19 @@
 						<key>Key</key>
 						<string>graphic-options</string>
 						<key>Value</key>
-						<data>
-						DAAAAA==
-						</data>
+						<data>DAAAAA==</data>
 					</dict>
 					<dict>
 						<key>Key</key>
 						<string>subsystem-vendor-id</string>
 						<key>Value</key>
-						<data>
-						axAAAA==
-						</data>
+						<data>axAAAA==</data>
 					</dict>
 					<dict>
 						<key>Key</key>
 						<string>AAPL00,PanelPowerUp</string>
 						<key>Value</key>
-						<data>
-						MAAAAA==
-						</data>
+						<data>MAAAAA==</data>
 					</dict>
 				</array>
 				<key>PciAddr</key>
@@ -429,7 +343,7 @@
 			<key>DoubleClick</key>
 			<integer>500</integer>
 			<key>Enabled</key>
-			<false/>
+			<true/>
 			<key>Mirror</key>
 			<false/>
 			<key>Speed</key>
@@ -449,7 +363,7 @@
 			<key>ATI</key>
 			<false/>
 			<key>Intel</key>
-			<true/>
+			<false/>
 			<key>NVidia</key>
 			<false/>
 		</dict>
@@ -486,15 +400,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				MdtMO2XYdRI=
-				</data>
+				<data>MdtMO2XYdRI=</data>
 				<key>Name</key>
 				<string>AirPortBrcm4360</string>
 				<key>Replace</key>
-				<data>
-				Mdv/w5CQkJA=
-				</data>
+				<data>Mdv/w5CQkJA=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -502,17 +412,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				wegQD7bA
-				</data>
+				<data>wegQD7bA</data>
 				<key>MatchOS</key>
 				<string>10.11.4</string>
 				<key>Name</key>
 				<string>AppleAPIC</string>
 				<key>Replace</key>
-				<data>
-				uBcAAACQ
-				</data>
+				<data>uBcAAACQ</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -520,17 +426,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				wegQD7bw
-				</data>
+				<data>wegQD7bw</data>
 				<key>MatchOS</key>
 				<string>10.11.1,10.11.2,10.11.3</string>
 				<key>Name</key>
 				<string>AppleAPIC</string>
 				<key>Replace</key>
-				<data>
-				vhcAAACQ
-				</data>
+				<data>vhcAAACQ</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -538,15 +440,11 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AQAAdRc=
-				</data>
+				<data>AQAAdRc=</data>
 				<key>Name</key>
 				<string>IOGraphicsFamily</string>
 				<key>Replace</key>
-				<data>
-				AQAA6xc=
-				</data>
+				<data>AQAA6xc=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -554,17 +452,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				iUXIOcZ2UQ==
-				</data>
+				<data>iUXIOcZ2UQ==</data>
 				<key>MatchOS</key>
 				<string>10.12.x</string>
 				<key>Name</key>
 				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
 				<key>Replace</key>
-				<data>
-				iUXIOcbrUQ==
-				</data>
+				<data>iUXIOcbrUQ==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -572,17 +466,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AQAAdSU=
-				</data>
+				<data>AQAAdSU=</data>
 				<key>MatchOS</key>
 				<string>10.12.x</string>
 				<key>Name</key>
 				<string>com.apple.iokit.IOGraphicsFamily</string>
 				<key>Replace</key>
-				<data>
-				AQAA6yU=
-				</data>
+				<data>AQAA6yU=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -590,17 +480,13 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>
-				AQAAdRc=
-				</data>
+				<data>AQAAdRc=</data>
 				<key>MatchOS</key>
 				<string>10.10.x,10.11.x</string>
 				<key>Name</key>
 				<string>com.apple.iokit.IOGraphicsFamily</string>
 				<key>Replace</key>
-				<data>
-				AQAA6xc=
-				</data>
+				<data>AQAA6xc=</data>
 			</dict>
 		</array>
 	</dict>
@@ -621,7 +507,7 @@
 			<array>
 				<dict>
 					<key>Frequency</key>
-					<integer>1600</integer>
+					<integer>2133</integer>
 					<key>Part</key>
 					<string>123456ABCDEF</string>
 					<key>Serial</key>
