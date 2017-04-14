@@ -1,6 +1,6 @@
 # Lenovo-300-17ISK-10.12-Clover
 
-Contains Clover 3398 EFI folder with all SSDT patches and required kexts. Testetd on model Lenovo 300-17ISK 80QH without discrete grapics. Used only integrated HD520 graphics.
+Contains Clover 4049 EFI folder with all SSDT patches and required kexts. Testetd on model Lenovo 300-17ISK 80QH without discrete grapics. Used only integrated HD520 graphics.
 
 # Installation
 
