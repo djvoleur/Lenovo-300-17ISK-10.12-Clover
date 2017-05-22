@@ -355,6 +355,46 @@
 		<string>1600x900</string>
 		<key>Theme</key>
 		<string>Mavs Style</string>
+		<key>Custom</key>
+		<dict>
+			<key>Entries</key>
+			<array>
+				<dict>
+					<key>AddArguments</key>
+					<string>root=UUID=636b1336-303f-4032-975c-70d07c9cf390 rw add_efi_memmap initrd=/initramfs-linux-zen.img</string>
+					<key>Disabled</key>
+					<false/>
+					<key>FullTitle</key>
+					<string>Arch Linux</string>
+					<key>Hidden</key>
+					<false/>
+					<key>Ignore</key>
+					<false/>
+					<key>Path</key>
+					<string>vmlinuz-linux-zen</string>
+					<key>Type</key>
+					<string>Linux</string>
+					<key>Volume</key>
+					<string>EFI</string>
+					<key>VolumeType</key>
+					<string>Internal</string>
+				</dict>
+				<dict>
+					<key>FullTitle</key>
+					<string>GRUB</string>
+					<key>Volume</key>
+					<string>EFI</string>
+					<key>VolumeType</key>
+					<string>Internal</string>
+					<key>Path</key>
+					<string>/EFI/grub/grubx64.efi</string>
+					<key>Type</key>
+					<string>Linux</string>
+					<key>Hidden</key>
+					<true/>
+				</dict>
+			</array>
+		</dict>
 	</dict>
 	<key>Graphics</key>
 	<dict>

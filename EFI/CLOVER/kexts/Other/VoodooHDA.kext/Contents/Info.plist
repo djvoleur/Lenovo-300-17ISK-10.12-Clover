@@ -17,11 +17,11 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.8.9</string>
+	<string>2.9.0d10</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>2.8.9</string>
+	<string>2.9.0d10</string>
 	<key>DTCompiler</key>
 	<string></string>
 	<key>DTPlatformBuild</key>
@@ -29,9 +29,9 @@
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>11E52</string>
+	<string>11G63</string>
 	<key>DTSDKName</key>
-	<string>macosx10.7</string>
+	<string></string>
 	<key>DTXcode</key>
 	<string>0441</string>
 	<key>DTXcodeBuild</key>
@@ -63,11 +63,11 @@
 			<key>MixerValues</key>
 			<dict>
 				<key>PCM</key>
-				<integer>100</integer>
+				<integer>110</integer>
 				<key>Rec</key>
 				<integer>90</integer>
 				<key>iGain</key>
-				<integer>100</integer>
+				<integer>110</integer>
 				<key>iMix</key>
 				<integer>90</integer>
 			</dict>
