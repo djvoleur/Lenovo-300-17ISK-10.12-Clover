@@ -1,6 +1,6 @@
 # Lenovo 300 17ISK\15ISK 10.12 Clover
 
-Contains Clover 4049 EFI folder with all SSDT patches and required kexts. Testetd on model Lenovo 300-17ISK 80QH without discrete grapics. Used only integrated HD520 graphics. This EFI tested on Mac OS Sierra 10.12.4.
+Contains Clover 4077 EFI folder with all SSDT patches and required kexts. Testetd on model Lenovo 300-17ISK 80QH without discrete grapics. Used only integrated HD520 graphics. This EFI tested on Mac OS Sierra 10.12.5.
 
 # Installation
 
