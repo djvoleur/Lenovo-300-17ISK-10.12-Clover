@@ -14,8 +14,6 @@
 			<dict>
 				<key>AddPNLF_1000000</key>
 				<true/>
-				<key>DeleteUnused_400000</key>
-				<true/>
 				<key>FIX_RTC_20000</key>
 				<true/>
 				<key>FixHPET_0010</key>
@@ -190,8 +188,6 @@
 			</array>
 			<key>ReuseFFFF</key>
 			<false/>
-			<key>Rtc8Allowed</key>
-			<true/>
 		</dict>
 		<key>DropTables</key>
 		<array>
@@ -417,7 +413,7 @@
 		<key>AppleRTC</key>
 		<true/>
 		<key>AsusAICPUPM</key>
-		<true/>
+		<false/>
 		<key>Debug</key>
 		<false/>
 		<key>ForceKextsToLoad</key>
@@ -434,18 +430,6 @@
 		<true/>
 		<key>KextsToPatch</key>
 		<array>
-			<dict>
-				<key>Comment</key>
-				<string>AirPortBrcm4360 whitelist patch (board-id), credit RehabMan</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>MdtMO2XYdRI=</data>
-				<key>Name</key>
-				<string>AirPortBrcm4360</string>
-				<key>Replace</key>
-				<data>Mdv/w5CQkJA=</data>
-			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>APIC #2: patch by Piker Alpha</string>
@@ -488,7 +472,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Disable minStolenSize less or equal fStolenMemorySize assertion, 10.12.0 ( (based on Austere.J patch)</string>
+				<string>Disable minStolenSize less or equal fStolenMemorySize assertion, 10.12.0 (based on Austere.J patch)</string>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
@@ -499,20 +483,6 @@
 				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
 				<key>Replace</key>
 				<data>iUXIOcbrUQ==</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Boot graphics glitch, 10.12.dp1 (credit denskop)</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>AQAAdSU=</data>
-				<key>MatchOS</key>
-				<string>10.12.x</string>
-				<key>Name</key>
-				<string>com.apple.iokit.IOGraphicsFamily</string>
-				<key>Replace</key>
-				<data>AQAA6yU=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -527,6 +497,22 @@
 				<string>com.apple.iokit.IOGraphicsFamily</string>
 				<key>Replace</key>
 				<data>AQAA6xc=</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>0x19160000/etc, 19MB framebuffer 9MB cursor bytes (credit RehabMan)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AAAgAgAAUAE=
+				</data>
+				<key>Name</key>
+				<string>com.apple.driver.AppleIntelSKLGraphicsFramebuffer</string>
+				<key>Replace</key>
+				<data>
+				AAAwAQAAkAA=
+				</data>
 			</dict>
 		</array>
 	</dict>
@@ -543,28 +529,11 @@
 		<dict>
 			<key>Channels</key>
 			<integer>2</integer>
-			<key>Modules</key>
-			<array>
-				<dict>
-					<key>Frequency</key>
-					<integer>2133</integer>
-					<key>Part</key>
-					<string>123456ABCDEF</string>
-					<key>Serial</key>
-					<string>ABCDEF123456</string>
-					<key>Size</key>
-					<string>4096</string>
-					<key>Slot</key>
-					<integer>0</integer>
-					<key>Type</key>
-					<string>DDR3</string>
-					<key>Vendor</key>
-					<string>Samsung</string>
-				</dict>
-			</array>
 			<key>SlotCount</key>
 			<integer>2</integer>
 		</dict>
+		<key>Mobile</key>
+		<true/>
 		<key>ProductName</key>
 		<string>MacBookPro13,1</string>
 		<key>Trust</key>
